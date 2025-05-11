@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+
+.main-heading {
+    background-color: lightblue;
+    color: navy;
+    margin-left: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+ul {
+    background: #3399ff;
+    padding: 20px;
+    width: 100px;
+}
+
+ul li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+}
